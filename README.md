@@ -1,3 +1,3 @@
 # Fastsell
-You can sell anything
+You can sell anything.
 Author - Rahul Avhad
